@@ -1,10 +1,11 @@
-# Lens⁸¹ : Technical Documentation
+# Lens⁸¹ : Technical Documentation V2
 
 Lens⁸¹ is a Chrome extension (Manifest V3) that labels each result on a
 Google Scholar search page as **Research** or **Review**, using an ensemble
 of up to 5 LLMs accessed through the user's own OpenRouter API keys.
 
 ---
+
 
 ## 1. Overview
 
@@ -18,6 +19,7 @@ of up to 5 LLMs accessed through the user's own OpenRouter API keys.
 | **UI surfaces** | Content-script badges on Scholar, toolbar popup, options page |
 
 ---
+
 
 ## 2. File structure
 
@@ -33,6 +35,8 @@ lens81/
 ├── icons/                  Toolbar/extension icons
 └── README.md               User-facing quick-start guide
 ```
+
+
 
 ---
 
