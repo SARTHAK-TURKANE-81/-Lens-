@@ -1,4 +1,4 @@
-# Lens⁸¹ — Technical Documentation (v4)
+# Lens⁸¹ : Technical Documentation (v4)
 
 This document explains how Lens⁸¹ actually works internally: the
 classification pipeline, the multi-model ensemble, the Collections feature,
